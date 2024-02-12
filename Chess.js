@@ -685,10 +685,10 @@ document.addEventListener("DOMContentLoaded", function () {
         setTimeout(() => {
           // console.log(`${toggle}`)
           if (tog % 2 == 0) {
-            alert("White Wins !!");
+            alert("White Wins  hurry 🎉");
             location.reload();
           } else if (tog % 2 !== 0) {
-            alert("green Wins !!");
+            alert("Black Wins  hurry 🎉");
             location.reload();
           }
         }, 100);
