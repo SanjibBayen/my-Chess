@@ -667,7 +667,7 @@ document.addEventListener("DOMContentLoaded", function () {
         whosTurn("W");
       }
       if (tog % 2 == 0) {
-        document.getElementById("tog").innerText = "black's Turn";
+        document.getElementById("tog").innerText = "Black's Turn";
         whosTurn("B");
       }
 
