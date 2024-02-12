@@ -27,6 +27,7 @@ li {
   place-items: center;
   font-size: 0px;
   border: 0.5px solid black;
+  cursor: pointer;
 }
 #resetButton {
   height: 40px;
@@ -40,6 +41,7 @@ li {
   /* margin: 0.5px; */
   width: 60px;
   height: 60px;
+  cursor: pointer;
   /* border: 0.5px solid black; */
 }
 
